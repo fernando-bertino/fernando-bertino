@@ -18,7 +18,11 @@
 
   - ⚡ Gosto de tocar teclado e sou um entusiasta por controladores MIDI além de ter construido meu próprio controlador, além de assistir filmes e séries e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
-
+<div>
+  <a href="https://github.com/fernando-bertino">
+    <img align="center" heigth="200em" src="https://github-readme-stats.vercel.app/api?username=fernando-bertino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-bertino&langs_count=16&theme=dracula"/>
+</div>
 ##
 <div align="center">
 <h2> Contatos </h2>
