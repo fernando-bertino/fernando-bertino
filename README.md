@@ -6,7 +6,7 @@
 <p>
   Oi, me chamo Fernando! Um apaixonado estudante de Programação
 
-  - 🌱 Atualmente estou terminando minha graduação Análise e Desenvolvimento de Sistemas e estudando desenvolvimento Web.
+  - 📚 Sou formado no curso de Análise e Desenvolvimento de Sistemas e estudando desenvolvimento Web.
     
   - 🔭 Estou em busca da minha primeira oportunidade de emprego na Área de Desenvolvimento Front-End. Meu sonho é um dia trabalhar no exterior com Desenvolvimento de aplicações Web.
 </p>
@@ -18,6 +18,10 @@
 
   - ⚡ Gosto de tocar teclado e sou um entusiasta por controladores MIDI além de ter construido meu próprio controlador, além de assistir filmes e séries e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
+
+<p>
+  
+</p>
 <div>
   <a href="https://github.com/fernando-bertino">
     <img align="center" heigth="200em" src="https://github-readme-stats.vercel.app/api?username=fernando-bertino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
